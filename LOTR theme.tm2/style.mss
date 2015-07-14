@@ -60,7 +60,7 @@ Map {
 }
 #world_peaks 
   [zoom>=5]{
-  point-file:url("hill copy.png");
+  point-file:url("hill.png");
   
   }
 
@@ -104,7 +104,7 @@ Map {
   ::main[zoom>=0] {
     comp-op:multiply;
     [class='park']{
-      polygon-pattern-file:url("shell12.png");
+      polygon-pattern-file:url("shell.png");
       
     }
     [class='school'] {
