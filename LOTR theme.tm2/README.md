@@ -1,4 +1,3 @@
-mapbox-studio-pirates.tm2
-=========================
+# Lord of the Ring theme map of world.
 
-Mapbox Studio default style.
+- **[Feedback](https://github.com/mapbox/map-feedback/issues/created_by/MapboxBot)**
