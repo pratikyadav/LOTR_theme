@@ -1,0 +1,52 @@
+_prefs: 
+  mapid: pratikyadav.f637d67e
+  saveCenter: true
+_properties: {}
+attribution: "<a href='http://mapbox.com/about/maps' target='_blank'>Terms & Feedback</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 2.395
+  - 44.7233
+  - 7
+description: World map based on 'Middle Earth' theme of Lord of the Rings
+format: "png8:m=h:c=128"
+interactivity_layer: ''
+layers: 
+  - landcover
+  - landuse
+  - hillshade
+  - contour.line
+  - waterway
+  - water
+  - aeroway
+  - barrier_line
+  - building
+  - landuse_overlay
+  - tunnel
+  - road
+  - bridge
+  - admin
+  - ne_10m_coastline
+  - world_peaks
+  - country_label_line
+  - country_label
+  - marine_label
+  - state_label
+  - place_label
+  - water_label
+  - poi_label
+  - road_label
+  - waterway_label
+  - contour.label
+maxzoom: 9
+minzoom: 7
+name: LOTR Theme Map
+source: "mapbox:///mapbox.mapbox-streets-v4,pratikyadav.ef579a16,pratikyadav.c875cc85,pratikyadav.b579be39"
+styles: 
+  - style.mss
+  - labels.mss
+template: ''
